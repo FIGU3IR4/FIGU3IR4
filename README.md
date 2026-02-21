@@ -1,12 +1,15 @@
-Uma mente curiosa pela tecnologia desde cedo.
+# Olá, sou o Victor!
+## Bem-vindo à minha mente organizada em forma de código.
 
-<img align="right" width="439" height="326" alt="image" src="https://github.com/user-attachments/assets/b1ebf947-f37c-436c-b893-756d4c31ba5c" />
+Sou um entusiasta da tecnologia que descobriu na programação a ferramenta ideal para transformar ideias em soluções reais. Atualmente, curso Análise e Desenvolvimento de Sistemas na CESAR School e dedico minha energia ao desenvolvimento de ecossistemas robustos.
 
-Minha jornada na programação começou de forma autodidata em 2022, quando descobri o quanto gosto de transformar ideias em soluções através do código. Esse interesse me levou a buscar formação na CESAR School, onde hoje curso Análise e Desenvolvimento de Sistemas, aprofundando meus conhecimentos na área.
+Meu foco  é em Java e Spring Boot para construção de APIs escaláveis.
 
-Comecei minha jornada na programação explorando Python e JavaScript, linguagens que me ajudaram a entender os fundamentos do desenvolvimento e criar meus primeiros projetos. Com o tempo, direcionei meu foco para o backend, onde venho me desenvolvendo principalmente com Java e Spring Boot, construindo APIs e sistemas voltados para aplicações reais, muitos deles disponíveis aqui no GitHub.
+Background: Experiência com Python, JavaScript e Node.js.
 
-Sempre busco evoluir, aprender novas tecnologias e construir soluções úteis no dia a dia.
+
+
+<img align="right" width="400" src="https://github.com/user-attachments/assets/b1ebf947-f37c-436c-b893-756d4c31ba5c" />
 
 <br>
 
