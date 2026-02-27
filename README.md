@@ -1,15 +1,18 @@
 # Olá, sou o Victor!
 ## Bem-vindo à minha mente organizada em forma de código.
 
-Sou um entusiasta da tecnologia que descobriu na programação a ferramenta ideal para transformar ideias em soluções reais. Atualmente, curso Análise e Desenvolvimento de Sistemas na CESAR School e dedico minha energia ao desenvolvimento de ecossistemas robustos.
+Sou um entusiasta da tecnologia que descobriu na programação <img align="right" width="400" src="https://github.com/user-attachments/assets/b1ebf947-f37c-436c-b893-756d4c31ba5c" />
+a ferramenta ideal para transformar ideias em soluções reais.
+
+dedico minha energia ao desenvolvimento de ecossistemas robustos.
 
 Meu foco  é em Java e Spring Boot para construção de APIs escaláveis.
 
-Background: Experiência com Python, JavaScript e Node.js.
+Background: Experiência com Python, JavaScript e Node.js E Frontend Com React.
 
 
 
-<img align="right" width="400" src="https://github.com/user-attachments/assets/b1ebf947-f37c-436c-b893-756d4c31ba5c" />
+
 
 <br>
 
